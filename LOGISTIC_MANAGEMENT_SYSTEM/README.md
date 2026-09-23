@@ -1,6 +1,6 @@
-Supermarket Management System
+Logistic Management System
 
-A full-stack role-based web app to manage supermarket operations, built with React, Node.js, Express, and MongoDB.
+A full-stack role-based web app to manage warehouse operations, built with React, Node.js, Express, and MongoDB.
 
 
 Features
